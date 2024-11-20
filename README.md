@@ -17,4 +17,4 @@ Most crawled traffic was invalid or noisy, with some samples evading analysis by
 
 Ultimately, we obtained 726 valid pcap files from 4696 APT samples, totaling 427MB. Due to high manual screening costs, we filtered data for only 25 organizations. This dataset, named SJTU-APT23, is the most comprehensive APT traffic dataset to date, covering the widest range of APT organizations. The composition of the dataset is shown in Table \ref{SJTU-APT23}, and the organizational distribution is illustrated in Figure \ref{SJTU-APT23饼图}.
 
-.<img src="URL" width="300" height="450" />
+<img src="https://github.com/zhm0203/SJTU-APT23/blob/main/SJTU-APT23.png" width="380" height="250" />
